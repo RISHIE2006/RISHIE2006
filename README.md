@@ -23,12 +23,6 @@ I'm a driven computer science student with a keen interest in AI and machine lea
 - **Databases:** SQL, MongoDB
 - **Currently Exploring:** Deep Learning, NLP, Computer Vision, Genkit
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHIE2006&theme=default&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIE2006&layout=compact&theme=default)
-
 ## 🌱 Currently Learning
 
 - 🤖 **Deep Learning & Neural Networks** - Understanding advanced AI concepts
