@@ -16,12 +16,12 @@ I'm a driven computer science student with a keen interest in AI and machine lea
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, Java, C++
-- **AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy
-- **Web Development:** React, Node.js, HTML/CSS
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, VS Code
+- **Languages:** Python, JavaScript, Java, C++, TypeScript
+- **AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy, Google Gemini API
+- **Web Development:** React, Next.js, Node.js, HTML/CSS, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, VS Code, Firebase
 - **Databases:** SQL, MongoDB
-- **Currently Exploring:** Deep Learning, NLP, Computer Vision
+- **Currently Exploring:** Deep Learning, NLP, Computer Vision, Genkit
 
 ## 📈 GitHub Stats
 
@@ -43,9 +43,9 @@ Here are some of my projects exploring AI, ML, and full-stack development:
 
 1. **[Audio](https://github.com/RISHIE2006/Audio)** - Audio processing and analysis tool leveraging machine learning to extract insights from audio files and perform sound classification tasks.
 
-2. **[Signl](https://github.com/RISHIE2006/Signl)** - Signal processing library with implementations of core DSP algorithms and real-time signal analysis capabilities for AI and ML applications.
+2. **[Signl](https://github.com/RISHIE2006/Signl)** - An AI-powered career intelligence platform built with Next.js and Google Gemini that provides resume analysis, job matching, mock interviews, and personalized career coaching to help job seekers approach their transition with data-driven precision.
 
-3. **[Studio](https://github.com/RISHIE2006/Studio)** - Integrated development environment and toolkit for building, training, and deploying machine learning models with an intuitive interface.
+3. **[Studio](https://github.com/RISHIE2006/studio)** - HighwayHealers: An intelligent highway emergency response platform combining Next.js 15, Google Genkit, and Firebase to deliver real-time AI-driven first-aid guidance, SOS emergency dispatch, medicine locator, and NHAI resource allocation for safer highways.
 
 *More projects coming as I continue learning and building!*
 
@@ -55,6 +55,7 @@ Here are some of my projects exploring AI, ML, and full-stack development:
 - Kaggle competitions and datasets
 - Online courses and tutorials
 - Community contributions and collaboration
+- Full-stack development with AI/ML integration
 
 ## 💬 Let's Connect
 
