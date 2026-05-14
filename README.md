@@ -41,9 +41,11 @@ I'm a driven computer science student with a keen interest in AI and machine lea
 
 Here are some of my projects exploring AI, ML, and full-stack development:
 
-- **Project Name** - Brief description of your AI/ML project
-- **Project Name** - Brief description of your web development project
-- **Project Name** - Brief description of your algorithm/data structures project
+1. **[Audio](https://github.com/RISHIE2006/Audio)** - Audio processing and analysis tool leveraging machine learning to extract insights from audio files and perform sound classification tasks.
+
+2. **[Signl](https://github.com/RISHIE2006/Signl)** - Signal processing library with implementations of core DSP algorithms and real-time signal analysis capabilities for AI and ML applications.
+
+3. **[Studio](https://github.com/RISHIE2006/Studio)** - Integrated development environment and toolkit for building, training, and deploying machine learning models with an intuitive interface.
 
 *More projects coming as I continue learning and building!*
 
