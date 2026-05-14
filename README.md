@@ -71,4 +71,4 @@ I'm actively learning and contributing to the developer community. Check out my 
 
 **Last Updated:** May 14, 2026
 
-*"The best way to learn is by building. Every line of code is a step forward."* 🚀✨
+*"Software is a great combination between artistry and engineering." 💻🌃*
