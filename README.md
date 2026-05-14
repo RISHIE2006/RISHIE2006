@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rishie Jha
 
-<!--
-**RISHIE2006/RISHIE2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a 2nd-year student passionate about **Artificial Intelligence**, **Machine Learning**, and building a strong foundation in software development. I'm actively learning and exploring innovative solutions through code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a driven computer science student with a keen interest in AI and machine learning. I believe in learning by doing—building projects, contributing to open-source, and constantly pushing the boundaries of what I can create. I'm excited about the intersection of technology and real-world problem-solving.
+
+## 💼 What I Do
+
+- 🤖 Explore AI and Machine Learning concepts
+- 💻 Build full-stack applications and tools
+- 📚 Contribute to open-source projects and learn from the community
+- 🎯 Solve algorithmic challenges and complex problems
+- 💡 Document my learning journey and share knowledge
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, JavaScript, Java, C++
+- **AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy
+- **Web Development:** React, Node.js, HTML/CSS
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, VS Code
+- **Databases:** SQL, MongoDB
+- **Currently Exploring:** Deep Learning, NLP, Computer Vision
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHIE2006&theme=default&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIE2006&layout=compact&theme=default)
+
+## 🌱 Currently Learning
+
+- 🤖 **Deep Learning & Neural Networks** - Understanding advanced AI concepts
+- 🧠 **Natural Language Processing (NLP)** - Building models for text understanding
+- 📊 **Data Science & Analytics** - Extracting insights from data
+- 🔬 **Computer Vision** - Exploring image processing and recognition
+- 🚀 **Advanced Python** - Mastering best practices and optimization
+
+## 🎯 Featured Projects
+
+Here are some of my projects exploring AI, ML, and full-stack development:
+
+- **Project Name** - Brief description of your AI/ML project
+- **Project Name** - Brief description of your web development project
+- **Project Name** - Brief description of your algorithm/data structures project
+
+*More projects coming as I continue learning and building!*
+
+## 📚 Learning Resources & Interests
+
+- Open-source AI and ML projects
+- Kaggle competitions and datasets
+- Online courses and tutorials
+- Community contributions and collaboration
+
+## 💬 Let's Connect
+
+I'm always excited to connect with fellow learners, developers, and AI enthusiasts! Whether it's collaborating on projects, sharing ideas, or learning together—let's build something amazing!
+
+- 💌 **Email:** [rishiejha@gmail.com](mailto:rishiejha@gmail.com)
+- 🔗 **LinkedIn:** [Rishie Jha](https://www.linkedin.com/in/rishie-jha-936776312)
+- 💻 **GitHub:** [RISHIE2006](https://github.com/RISHIE2006)
+
+## 📊 Contribution Activity
+
+I'm actively learning and contributing to the developer community. Check out my repositories to see what I'm working on, and feel free to:
+- ⭐ Star projects you find interesting
+- 🍴 Fork and contribute
+- 💬 Open issues with suggestions or improvements
+- 📧 Reach out for collaboration opportunities
+
+---
+
+**Last Updated:** May 14, 2026
+
+*"The best way to learn is by building. Every line of code is a step forward."* 🚀✨
