@@ -16,10 +16,10 @@ I'm a driven computer science student with a keen interest in AI and machine lea
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, Java, C++, TypeScript
+- **Languages:** Python, JavaScript, C++, TypeScript
 - **AI/ML:** TensorFlow, Scikit-learn, Pandas, NumPy, Google Gemini API
 - **Web Development:** React, Next.js, Node.js, HTML/CSS, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, VS Code, Antigravity
+- **Tools & Platforms:** Git, GitHub, VS Code, Antigravity
 - **Currently Exploring:** Deep Learning, NLP, Computer Vision, Genkit
 
 ## 🌱 Currently Learning
